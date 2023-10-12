@@ -25,6 +25,5 @@ form.addEventListener('submit', function (event) {
   setTimeout(() => {
     updateNumberShow();
     stopedAnimation();
-  }, 5000)
-
+  }, 5000);
 });
